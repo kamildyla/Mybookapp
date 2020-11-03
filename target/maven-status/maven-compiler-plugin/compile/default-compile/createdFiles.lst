@@ -1,0 +1,7 @@
+pl\mybookapp\Main.class
+pl\mybookapp\AuthorRepository.class
+pl\mybookapp\BookRepository.class
+pl\mybookapp\Author.class
+pl\mybookapp\AuthorService.class
+pl\mybookapp\Book.class
+pl\mybookapp\BookService.class
